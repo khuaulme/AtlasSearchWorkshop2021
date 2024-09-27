@@ -52,7 +52,6 @@ const Home = () => {
 
   return (
     <>
-      {" "}
       <Header
         searchTerm={searchTerm}
         setSearchTerm={setSearchTerm}
